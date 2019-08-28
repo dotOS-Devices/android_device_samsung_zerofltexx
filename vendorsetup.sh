@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo lineage_zerofltexx-userdebug
+add_lunch_combo dot_zerofltexx-userdebug
 add_lunch_combo aosp_zerofltexx-userdebug

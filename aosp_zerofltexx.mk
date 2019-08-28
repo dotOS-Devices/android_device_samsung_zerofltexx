@@ -1,8 +1,7 @@
 # Initialise device config
 $(call inherit-product, device/samsung/zerofltexx/full_zerofltexx.mk)
 
-TARGET_SCREEN_HEIGHT := 2560
-TARGET_SCREEN_WIDTH := 1440
+TARGET_BOOT_ANIMATION_RES := 1440
 
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
